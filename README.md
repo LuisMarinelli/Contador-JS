@@ -1,2 +1,4 @@
 # Contador-JS
- Contato em JavaScript - Desafio BootCamp-DIO
+ Contator em JavaScript.
+
+ Projeto em: BootCamp.DIO
